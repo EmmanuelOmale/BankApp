@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dHL3lQ7GUHFICe6r266n0b0I0c7tfjRwC4cemQQzwUSaUpUhV3I8a1jUL8VxgrvKOfH22fd9A1NU8VeiZAN2Tg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\BestBank_Tests\\BestBank\\BestBank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

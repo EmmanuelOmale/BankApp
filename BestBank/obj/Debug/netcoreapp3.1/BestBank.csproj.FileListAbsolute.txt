@@ -1,0 +1,48 @@
+C:\Users\Decagon\source\repos\BestBank\BestBank\bin\Debug\netcoreapp3.1\BestBank.exe
+C:\Users\Decagon\source\repos\BestBank\BestBank\bin\Debug\netcoreapp3.1\BestBank.deps.json
+C:\Users\Decagon\source\repos\BestBank\BestBank\bin\Debug\netcoreapp3.1\BestBank.runtimeconfig.json
+C:\Users\Decagon\source\repos\BestBank\BestBank\bin\Debug\netcoreapp3.1\BestBank.runtimeconfig.dev.json
+C:\Users\Decagon\source\repos\BestBank\BestBank\bin\Debug\netcoreapp3.1\BestBank.dll
+C:\Users\Decagon\source\repos\BestBank\BestBank\bin\Debug\netcoreapp3.1\BestBank.pdb
+C:\Users\Decagon\source\repos\BestBank\BestBank\obj\Debug\netcoreapp3.1\BestBank.csproj.AssemblyReference.cache
+C:\Users\Decagon\source\repos\BestBank\BestBank\obj\Debug\netcoreapp3.1\BestBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\source\repos\BestBank\BestBank\obj\Debug\netcoreapp3.1\BestBank.AssemblyInfoInputs.cache
+C:\Users\Decagon\source\repos\BestBank\BestBank\obj\Debug\netcoreapp3.1\BestBank.AssemblyInfo.cs
+C:\Users\Decagon\source\repos\BestBank\BestBank\obj\Debug\netcoreapp3.1\BestBank.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\source\repos\BestBank\BestBank\obj\Debug\netcoreapp3.1\BestBank.dll
+C:\Users\Decagon\source\repos\BestBank\BestBank\obj\Debug\netcoreapp3.1\BestBank.pdb
+C:\Users\Decagon\source\repos\BestBank\BestBank\obj\Debug\netcoreapp3.1\BestBank.genruntimeconfig.cache
+C:\Users\Decagon\source\repos\BestBank\BestBank\obj\Debug\netcoreapp3.1\BestBank.Properties.Resources.resources
+C:\Users\Decagon\source\repos\BestBank\BestBank\obj\Debug\netcoreapp3.1\BestBank.csproj.GenerateResource.cache
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week III & IV BestBank_Tests\BestBank\bin\Debug\netcoreapp3.1\BestBank.exe
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week III & IV BestBank_Tests\BestBank\bin\Debug\netcoreapp3.1\BestBank.deps.json
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week III & IV BestBank_Tests\BestBank\bin\Debug\netcoreapp3.1\BestBank.runtimeconfig.json
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week III & IV BestBank_Tests\BestBank\bin\Debug\netcoreapp3.1\BestBank.runtimeconfig.dev.json
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week III & IV BestBank_Tests\BestBank\bin\Debug\netcoreapp3.1\BestBank.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week III & IV BestBank_Tests\BestBank\bin\Debug\netcoreapp3.1\BestBank.pdb
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week III & IV BestBank_Tests\BestBank\obj\Debug\netcoreapp3.1\BestBank.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week III & IV BestBank_Tests\BestBank\obj\Debug\netcoreapp3.1\BestBank.Properties.Resources.resources
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week III & IV BestBank_Tests\BestBank\obj\Debug\netcoreapp3.1\BestBank.csproj.GenerateResource.cache
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week III & IV BestBank_Tests\BestBank\obj\Debug\netcoreapp3.1\BestBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week III & IV BestBank_Tests\BestBank\obj\Debug\netcoreapp3.1\BestBank.AssemblyInfoInputs.cache
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week III & IV BestBank_Tests\BestBank\obj\Debug\netcoreapp3.1\BestBank.AssemblyInfo.cs
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week III & IV BestBank_Tests\BestBank\obj\Debug\netcoreapp3.1\BestBank.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week III & IV BestBank_Tests\BestBank\obj\Debug\netcoreapp3.1\BestBank.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week III & IV BestBank_Tests\BestBank\obj\Debug\netcoreapp3.1\BestBank.pdb
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week III & IV BestBank_Tests\BestBank\obj\Debug\netcoreapp3.1\BestBank.genruntimeconfig.cache
+C:\Users\HP\Desktop\BestBank_Tests\BestBank\bin\Debug\netcoreapp3.1\BestBank.exe
+C:\Users\HP\Desktop\BestBank_Tests\BestBank\bin\Debug\netcoreapp3.1\BestBank.deps.json
+C:\Users\HP\Desktop\BestBank_Tests\BestBank\bin\Debug\netcoreapp3.1\BestBank.runtimeconfig.json
+C:\Users\HP\Desktop\BestBank_Tests\BestBank\bin\Debug\netcoreapp3.1\BestBank.runtimeconfig.dev.json
+C:\Users\HP\Desktop\BestBank_Tests\BestBank\bin\Debug\netcoreapp3.1\BestBank.dll
+C:\Users\HP\Desktop\BestBank_Tests\BestBank\bin\Debug\netcoreapp3.1\BestBank.pdb
+C:\Users\HP\Desktop\BestBank_Tests\BestBank\obj\Debug\netcoreapp3.1\BestBank.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\BestBank_Tests\BestBank\obj\Debug\netcoreapp3.1\BestBank.Properties.Resources.resources
+C:\Users\HP\Desktop\BestBank_Tests\BestBank\obj\Debug\netcoreapp3.1\BestBank.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\BestBank_Tests\BestBank\obj\Debug\netcoreapp3.1\BestBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\BestBank_Tests\BestBank\obj\Debug\netcoreapp3.1\BestBank.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\BestBank_Tests\BestBank\obj\Debug\netcoreapp3.1\BestBank.AssemblyInfo.cs
+C:\Users\HP\Desktop\BestBank_Tests\BestBank\obj\Debug\netcoreapp3.1\BestBank.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\BestBank_Tests\BestBank\obj\Debug\netcoreapp3.1\BestBank.dll
+C:\Users\HP\Desktop\BestBank_Tests\BestBank\obj\Debug\netcoreapp3.1\BestBank.pdb
+C:\Users\HP\Desktop\BestBank_Tests\BestBank\obj\Debug\netcoreapp3.1\BestBank.genruntimeconfig.cache
